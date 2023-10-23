@@ -10,6 +10,7 @@ The origin and destination cities are the same:
 
 The origin and destination cities are different ones:
 
-![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-simulated-annealing-algorithm/assets/59255164/7a73007a-284f-4ddf-bd00-cf3c2a4b2ac0)
+![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-simulated-annealing-algorithm/assets/59255164/7d604afa-561a-4d94-a461-90a90bfe4304)
 
-![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-simulated-annealing-algorithm/assets/59255164/7e08d945-b6e3-44c7-9dfd-976d1fdd41ea)
+![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-simulated-annealing-algorithm/assets/59255164/f92b839a-868e-4e9a-9414-0040c0416018)
+
