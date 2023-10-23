@@ -2,11 +2,13 @@
 
 The travelling salesman problem (TSP) asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?" In this notebook, I demonstate the solution of this problem with the simulated annealing algorithm.
 
+The origin and destination cities are the same:
+
 ![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-simulated-annealing-algorithm/assets/59255164/1505dcc9-02fa-4ead-a369-e3c3868d36b4)
 
 ![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-simulated-annealing-algorithm/assets/59255164/513280dc-ccbc-4ea1-9fee-155bbe98cac1)
 
-
+The origin and destination cities are different ones:
 
 ![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-simulated-annealing-algorithm/assets/59255164/05b34b0a-c391-4417-82c2-6b2c48a31d41)
 
