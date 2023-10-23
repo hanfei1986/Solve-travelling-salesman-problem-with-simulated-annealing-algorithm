@@ -4,9 +4,9 @@ The travelling salesman problem (TSP) asks the following question: "Given a list
 
 The origin and destination cities are the same:
 
-![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-simulated-annealing-algorithm/assets/59255164/47576d1c-9d9a-497a-8d96-56203506206a)
+![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-simulated-annealing-algorithm/assets/59255164/05935d71-9f18-4220-bebe-5a91f52798db)
 
-![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-simulated-annealing-algorithm/assets/59255164/513280dc-ccbc-4ea1-9fee-155bbe98cac1)
+![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-simulated-annealing-algorithm/assets/59255164/631a9721-1cd3-4333-b446-7f54c280f0fb)
 
 The origin and destination cities are different ones:
 
